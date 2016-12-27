@@ -1,0 +1,31 @@
+{
+  "name": "tayr-upload",
+  "version": "0.0.1",
+  "description": "tayr express upload",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burawi/tayr-upload.git"
+  },
+  "keywords": [
+    "tayr",
+    "express",
+    "upload",
+    "files"
+  ],
+  "author": "Abu RAwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burawi/tayr-upload/issues"
+  },
+  "homepage": "https://github.com/burawi/tayr-upload#readme",
+  "dependencies": {
+    "filerup": "0.0.2"
+  }
+}
